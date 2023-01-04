@@ -1,5 +1,8 @@
 # router
 
+### Using Vue3 and Node.js
+### Click Post and click title and click Post. It'll show the list
+
 ## Project setup
 ```
 npm install
