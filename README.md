@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Using Vue3 and Node.js
+Click Post and click title and click Post. It'll show the list
